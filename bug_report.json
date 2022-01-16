@@ -16,12 +16,10 @@
 ],
 "Description": {
 "Steps to reproduce":
-1. "open website https://www.asos.com/aldo/aldo-glaeswen-metal-hardware-slides-in-white-and-gold/prd/23705711?clr=white&colourWayId=60505815&cid=11476"
-2. "Push the button "add to bag""
+1."open website https://www.asos.com/aldo/aldo-glaeswen-metal-hardware-slides-in-white-and-gold/prd/23705711?clr=white&colourWayId=60505815&cid=11476"
+2."Push the button "add to bag""
 }
-
 "Result": "shoes aren't added to bag"
 "Expected result": "shoes are added to bag"
 }
-
 }
