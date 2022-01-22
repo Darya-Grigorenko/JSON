@@ -1,4 +1,7 @@
-My name is Darya Andreevna Grigorenko
-I'm 25 years old
-I have a cat.
-I'll be glad to earn 2500$ in the nearest future.
+{
+	"Name": "Darya",
+	"Surname": "Grigorenko",
+	"Age": 25,
+	"Pets": "1 cat",
+	"Expecting salary": "1500$"
+}
